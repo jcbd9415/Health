@@ -21,8 +21,8 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome, please enter your name"
-        tools:layout_editor_absoluteX="66dp"
+        android:text="Hello"
+        tools:layout_editor_absoluteX="55dp"
         tools:layout_editor_absoluteY="74dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
